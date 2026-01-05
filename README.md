@@ -32,7 +32,8 @@ The project was completed as an academic capstone and applies real-world busines
 
 
 ### Files in this Repository
-- `Academic_Report.pdf`: Full academic report with methodology, analysis, and visualizations.
+- `BDM Course Project Report.pdf`: Full academic report with methodology, analysis, and visualizations.
+- 'Croston_Forecasting_Method.ipynb': A jupyter notebook containing the code to forecast the inventory using Croston Method.
 - Raw data is not included due to confidentiality.
 
 ## Disclaimer
